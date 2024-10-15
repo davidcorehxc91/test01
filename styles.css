@@ -11,6 +11,10 @@ header {
     text-align: center;
 }
 
+h1 {
+    color: #fff; /* Cambiado a blanco */
+}
+
 main {
     display: flex;
     flex-direction: column;
@@ -25,7 +29,7 @@ section {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-h1, h2 {
+h2 {
     color: #333;
     margin-bottom: 10px;
 }
